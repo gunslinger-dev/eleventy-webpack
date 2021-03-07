@@ -1,8 +1,8 @@
 ---
-title: My First blog
+title: Adventures in Flyfishing
 layout: post.njk
-featuredImage: http://s3.amazonaws.com/appforest_uf/f1615135982646x136130765235296100/glenna-haug-y2bAS74iC8Q-unsplash.jpg
-pageTitle: This is my other Title
+featuredImage: https://s3.amazonaws.com/appforest_uf/f1615136323490x545376447452742100/samantha-deleo-5P3Exq-WGAs-unsplash.jpg
+pageTitle: Adventures in Flyfishing | Flyfishing Blog
 tags: ["post"]
 ---
 

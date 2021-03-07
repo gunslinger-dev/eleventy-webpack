@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Flyfishing Blog
 layout: layout.njk
 pagination:
   data: collections.post
@@ -8,7 +8,7 @@ pagination:
   alias: posts
 ---
      <section class=" text-gray-700 body-font">
-     <h1 class="text-5xl text-center">Welcome to our blog</h1>
+     <h1 class="text-5xl text-center">Welcome to our Flyfishing Blog</h1>
             <div class="container px-8 pt-24 mx-auto lg:px-4 ">
                 <div class="flex flex-wrap text-left">
                    {% for post in posts %}
@@ -22,7 +22,7 @@ pagination:
                         <p class="mb-4 text-base leading-relaxed">{{post.data.page.excerpt }}</p>
                         <a href="{{ post.url | url }}"
                             class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-400 ">
-                            Read More
+                            Read More about {{post.data.title}}
                         </a>
                         </div>
                     </div>

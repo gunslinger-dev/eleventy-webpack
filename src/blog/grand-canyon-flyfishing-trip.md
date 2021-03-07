@@ -1,8 +1,8 @@
 ---
-title: My First blog
+title: Grand Canyon Flyfishing Trip
 layout: post.njk
-featuredImage: https://s3.amazonaws.com/appforest_uf/f1615136323490x545376447452742100/samantha-deleo-5P3Exq-WGAs-unsplash.jpg
-pageTitle: This is my other Title
+featuredImage: https://s3.amazonaws.com/appforest_uf/f1615135982646x136130765235296100/glenna-haug-y2bAS74iC8Q-unsplash.jpg
+pageTitle: Grand Canyon Flyfishing Trip | Flyfishing Blog
 tags: ["post"]
 ---
 
