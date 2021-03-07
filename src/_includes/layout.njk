@@ -10,10 +10,10 @@
   <title>{{title}}</title>
 </head>
 <body class="flex flex-col min-h min-h-screen">
-
+  {% include 'header.njk' %}
   <main class="container flex-grow py-8"  >
       {{content | safe}}
   </main>
-
+{% include 'footer.njk' %}  
 </body>
 </html>
